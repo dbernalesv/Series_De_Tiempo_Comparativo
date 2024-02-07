@@ -8,4 +8,5 @@ Se realizó un Comparativo entre los siguientes modelos:
 - Doble Exponential Smoothing
 - Triple Exponential Smoothing
 - Holt-Winters
+
 Con la finalidad de elegir el mejor y realizar pronósticos.
